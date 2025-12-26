@@ -67,6 +67,7 @@ demos.tutorials
 demos.tutorials.collision
 demos.tutorials.game_loop
 demos.tutorials.hello_world
+demos.tutorials.physics
 demos.tutorials.scenes
 demos.tutorials.stateful_animation
 demos.tutorials.user_input
