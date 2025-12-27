@@ -63,6 +63,7 @@ demos.physics
 demos.physics.single_aspects
 demos.small_games
 demos.small_games.dude
+demos.small_games.pong
 demos.small_games.snake
 demos.sound
 demos.tutorials
