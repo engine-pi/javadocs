@@ -55,6 +55,8 @@ demos.classes.event.keyboard
 demos.classes.graphics
 demos.classes.graphics.boxes
 demos.classes.resources
+demos.classes.resources.color
+demos.classes.resources.sound
 demos.debug
 demos.graphics2d
 demos.physics
@@ -91,7 +93,9 @@ pi.graphics
 pi.graphics.boxes
 pi.physics
 pi.resources
-pi.sound
+pi.resources.color
+pi.resources.font
+pi.resources.sound
 pi.tweening
 pi.util
 tetris
