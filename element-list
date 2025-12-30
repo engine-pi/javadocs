@@ -92,6 +92,7 @@ pi.dsa.turtle.graphics
 pi.event
 pi.graphics
 pi.graphics.boxes
+pi.graphics.screen_recording
 pi.physics
 pi.resources
 pi.resources.color
