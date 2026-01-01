@@ -87,6 +87,7 @@ pi.actor
 pi.animation
 pi.animation.interpolation
 pi.annotations
+pi.configuration
 pi.debug
 pi.dsa
 pi.dsa.graph
