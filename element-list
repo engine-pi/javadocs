@@ -59,7 +59,8 @@ demos.classes.resources.color
 demos.classes.resources.sound
 demos.debug
 demos.docs
-demos.docs.design
+demos.docs.dev
+demos.docs.dev.design
 demos.graphics2d
 demos.physics
 demos.physics.single_aspects
