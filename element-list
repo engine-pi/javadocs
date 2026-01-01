@@ -97,6 +97,7 @@ pi.event
 pi.graphics
 pi.graphics.boxes
 pi.graphics.screen_recording
+pi.loop
 pi.physics
 pi.resources
 pi.resources.color
