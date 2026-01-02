@@ -61,6 +61,7 @@ demos.debug
 demos.docs
 demos.docs.dev
 demos.docs.dev.design
+demos.docs.main_classes.camera
 demos.graphics2d
 demos.physics
 demos.physics.single_aspects
