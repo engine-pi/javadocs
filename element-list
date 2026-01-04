@@ -61,7 +61,8 @@ demos.debug
 demos.docs
 demos.docs.dev
 demos.docs.dev.design
-demos.docs.main_classes.camera
+demos.docs.main_classes
+demos.docs.physics
 demos.graphics2d
 demos.physics
 demos.physics.single_aspects
@@ -74,7 +75,6 @@ demos.tutorials
 demos.tutorials.collision
 demos.tutorials.game_loop
 demos.tutorials.hello_world
-demos.tutorials.physics
 demos.tutorials.scenes
 demos.tutorials.stateful_animation
 demos.tutorials.user_input
