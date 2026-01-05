@@ -54,6 +54,8 @@ demos.classes.event
 demos.classes.event.keyboard
 demos.classes.graphics
 demos.classes.graphics.boxes
+demos.classes.physics
+demos.classes.physics.joints
 demos.classes.resources
 demos.classes.resources.color
 demos.classes.resources.sound
@@ -100,6 +102,7 @@ pi.graphics.boxes
 pi.graphics.screen_recording
 pi.loop
 pi.physics
+pi.physics.joints
 pi.resources
 pi.resources.color
 pi.resources.font
