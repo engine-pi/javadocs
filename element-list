@@ -65,6 +65,7 @@ demos.docs.dev
 demos.docs.dev.design
 demos.docs.main_classes
 demos.docs.main_classes.controller
+demos.docs.main_classes.controller.game_loop
 demos.docs.main_classes.controller.instant_mode
 demos.docs.physics
 demos.graphics2d
@@ -77,7 +78,6 @@ demos.small_games.snake
 demos.sound
 demos.tutorials
 demos.tutorials.collision
-demos.tutorials.game_loop
 demos.tutorials.hello_world
 demos.tutorials.scenes
 demos.tutorials.stateful_animation
