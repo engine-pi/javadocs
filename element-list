@@ -42,8 +42,8 @@ demos.billard
 demos.classes
 demos.classes.actor
 demos.classes.class_configuration
-demos.classes.class_game
-demos.classes.class_game.attribute_dialog
+demos.classes.class_controller
+demos.classes.class_controller.attribute_dialog
 demos.classes.class_scene
 demos.classes.dsa.graph
 demos.classes.dsa.graph.dfs
@@ -64,6 +64,8 @@ demos.docs
 demos.docs.dev
 demos.docs.dev.design
 demos.docs.main_classes
+demos.docs.main_classes.controller
+demos.docs.main_classes.controller.instant_mode
 demos.docs.physics
 demos.graphics2d
 demos.physics
