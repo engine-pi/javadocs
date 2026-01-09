@@ -57,7 +57,6 @@ demos.classes.graphics.boxes
 demos.classes.physics
 demos.classes.physics.joints
 demos.classes.resources
-demos.classes.resources.color
 demos.classes.resources.sound
 demos.debug
 demos.docs
@@ -68,6 +67,8 @@ demos.docs.main_classes.controller
 demos.docs.main_classes.controller.game_loop
 demos.docs.main_classes.controller.instant_mode
 demos.docs.physics
+demos.docs.resources
+demos.docs.resources.color
 demos.graphics2d
 demos.physics
 demos.physics.single_aspects
