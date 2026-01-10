@@ -95,6 +95,7 @@ pi
 pi.actor
 pi.animation
 pi.animation.interpolation
+pi.animation.tweening
 pi.annotations
 pi.config
 pi.debug
@@ -114,7 +115,6 @@ pi.resources
 pi.resources.color
 pi.resources.font
 pi.resources.sound
-pi.tweening
 pi.util
 tetris
 tetris.debug
