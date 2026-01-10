@@ -105,6 +105,7 @@ pi.dsa.turtle.graphics
 pi.event
 pi.graphics
 pi.graphics.boxes
+pi.graphics.geom
 pi.graphics.screen_recording
 pi.loop
 pi.physics
