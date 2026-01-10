@@ -57,6 +57,7 @@ demos.classes.graphics.boxes
 demos.classes.physics
 demos.classes.physics.joints
 demos.classes.resources
+demos.classes.resources.color
 demos.classes.resources.sound
 demos.debug
 demos.docs
