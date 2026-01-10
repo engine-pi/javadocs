@@ -54,6 +54,7 @@ demos.classes.event
 demos.classes.event.keyboard
 demos.classes.graphics
 demos.classes.graphics.boxes
+demos.classes.graphics.geom
 demos.classes.physics
 demos.classes.physics.joints
 demos.classes.resources
