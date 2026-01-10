@@ -63,6 +63,9 @@ demos.debug
 demos.docs
 demos.docs.dev
 demos.docs.dev.design
+demos.docs.events
+demos.docs.events.collision
+demos.docs.events.collision.froggy_jump
 demos.docs.main_classes
 demos.docs.main_classes.controller
 demos.docs.main_classes.controller.game_loop
@@ -79,7 +82,6 @@ demos.small_games.pong
 demos.small_games.snake
 demos.sound
 demos.tutorials
-demos.tutorials.collision
 demos.tutorials.hello_world
 demos.tutorials.scenes
 demos.tutorials.stateful_animation
