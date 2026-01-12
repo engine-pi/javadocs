@@ -73,6 +73,8 @@ demos.docs.main_classes.actor.hello_world
 demos.docs.main_classes.controller
 demos.docs.main_classes.controller.game_loop
 demos.docs.main_classes.controller.instant_mode
+demos.docs.main_classes.scene
+demos.docs.main_classes.scene.tutorial
 demos.docs.physics
 demos.docs.resources
 demos.docs.resources.color
@@ -85,7 +87,6 @@ demos.small_games.pong
 demos.small_games.snake
 demos.sound
 demos.tutorials
-demos.tutorials.scenes
 demos.tutorials.stateful_animation
 demos.tutorials.user_input
 demos.tutorials.user_input.mouse
