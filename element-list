@@ -82,6 +82,7 @@ demos.docs.main_classes.scene.tutorial
 demos.docs.physics
 demos.docs.resources
 demos.docs.resources.color
+demos.docs.resources.config
 demos.graphics2d
 demos.physics
 demos.physics.single_aspects
