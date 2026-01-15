@@ -67,9 +67,13 @@ demos.docs.dev.design
 demos.docs.events
 demos.docs.events.collision
 demos.docs.events.collision.froggy_jump
+demos.docs.events.key_event
+demos.docs.events.key_stroke
+demos.docs.events.mouse
 demos.docs.main_classes
 demos.docs.main_classes.actor
 demos.docs.main_classes.actor.hello_world
+demos.docs.main_classes.actor.stateful_animation
 demos.docs.main_classes.controller
 demos.docs.main_classes.controller.game_loop
 demos.docs.main_classes.controller.instant_mode
@@ -86,10 +90,6 @@ demos.small_games.dude
 demos.small_games.pong
 demos.small_games.snake
 demos.sound
-demos.tutorials
-demos.tutorials.stateful_animation
-demos.tutorials.user_input
-demos.tutorials.user_input.mouse
 pacman
 pacman.actors
 pacman.debug
