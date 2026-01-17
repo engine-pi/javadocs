@@ -74,6 +74,7 @@ demos.docs.main_classes
 demos.docs.main_classes.actor
 demos.docs.main_classes.actor.hello_world
 demos.docs.main_classes.actor.stateful_animation
+demos.docs.main_classes.actor.text
 demos.docs.main_classes.controller
 demos.docs.main_classes.controller.game_loop
 demos.docs.main_classes.controller.instant_mode
