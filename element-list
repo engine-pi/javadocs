@@ -50,7 +50,7 @@ demos.classes.dsa.graph.dfs
 demos.classes.dsa.recursion
 demos.classes.dsa.recursion.backtracking.eight_queens_puzzle
 demos.classes.dsa.threads.eierautomat
-demos.classes.dsa.threads.philosophen
+demos.classes.dsa.threads.philosophers
 demos.classes.dsa.turtle
 demos.classes.event
 demos.classes.event.keyboard
