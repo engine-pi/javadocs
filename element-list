@@ -41,6 +41,7 @@ demos
 demos.billard
 demos.classes
 demos.classes.actor
+demos.classes.actor.image_font
 demos.classes.class_configuration
 demos.classes.class_controller
 demos.classes.class_controller.attribute_dialog
