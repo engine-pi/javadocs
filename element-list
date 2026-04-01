@@ -78,6 +78,7 @@ demos.docs.events.mouse
 demos.docs.main_classes
 demos.docs.main_classes.actor
 demos.docs.main_classes.actor.hello_world
+demos.docs.main_classes.actor.polygon
 demos.docs.main_classes.actor.stateful_animation
 demos.docs.main_classes.actor.text
 demos.docs.main_classes.actor.text_block
