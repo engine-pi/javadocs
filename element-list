@@ -124,8 +124,6 @@ org.jbox2d.serialization.pb
 org.jbox2d.testbed
 org.jbox2d.testbed.framework
 org.jbox2d.testbed.framework.j2d
-org.jbox2d.testbed.framework.javafx
-org.jbox2d.testbed.framework.jogl
 org.jbox2d.testbed.perf
 org.jbox2d.testbed.pooling
 org.jbox2d.testbed.tests
