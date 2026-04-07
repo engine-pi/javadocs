@@ -77,6 +77,7 @@ demos.docs.events.key_stroke
 demos.docs.events.mouse
 demos.docs.main_classes
 demos.docs.main_classes.actor
+demos.docs.main_classes.actor.group
 demos.docs.main_classes.actor.hello_world
 demos.docs.main_classes.actor.line
 demos.docs.main_classes.actor.polygon
