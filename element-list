@@ -50,10 +50,6 @@ demos.classes.class_controller.attribute_dialog
 demos.classes.class_scene
 demos.classes.dsa.graph
 demos.classes.dsa.graph.dfs
-demos.classes.dsa.recursion
-demos.classes.dsa.recursion.backtracking.eight_queens_puzzle
-demos.classes.dsa.threads.eierautomat
-demos.classes.dsa.threads.philosophers
 demos.classes.dsa.turtle
 demos.classes.event
 demos.classes.event.keyboard
@@ -93,6 +89,12 @@ demos.docs.physics
 demos.docs.resources
 demos.docs.resources.color
 demos.docs.resources.config
+demos.edu_projects
+demos.edu_projects.concurrency
+demos.edu_projects.concurrency.eierautomat
+demos.edu_projects.concurrency.philosophers
+demos.edu_projects.recursion
+demos.edu_projects.recursion.backtracking.eight_queens_puzzle
 demos.graphics2d
 demos.physics
 demos.physics.single_aspects
