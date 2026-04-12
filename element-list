@@ -135,6 +135,7 @@ pacman.debug
 pacman.scenes
 pi
 pi.actor
+pi.actor.label
 pi.animation
 pi.animation.interpolation
 pi.animation.tweening
