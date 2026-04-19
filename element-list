@@ -102,7 +102,6 @@ demos.small_games
 demos.small_games.dude
 demos.small_games.pong
 demos.small_games.snake
-demos.sound
 org.box2d.proto
 org.jbox2d
 org.jbox2d.callbacks
