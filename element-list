@@ -86,6 +86,7 @@ demos.docs.main_classes.controller.instant_mode
 demos.docs.main_classes.scene
 demos.docs.main_classes.scene.tutorial
 demos.docs.physics
+demos.docs.physics.impulse
 demos.docs.resources
 demos.docs.resources.color
 demos.docs.resources.config
