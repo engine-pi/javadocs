@@ -68,7 +68,6 @@ demos.docs.dev.design
 demos.docs.events
 demos.docs.events.collision
 demos.docs.events.collision.froggy_jump
-demos.docs.events.collision.froggy_jump_basic
 demos.docs.events.key_event
 demos.docs.events.key_stroke
 demos.docs.events.mouse
