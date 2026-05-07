@@ -98,6 +98,7 @@ demos.edu_projects.recursion
 demos.edu_projects.recursion.backtracking.eight_queens_puzzle
 demos.graphics2d
 demos.physics
+demos.physics.collision
 demos.physics.single_aspects
 demos.small_games
 demos.small_games.dude
