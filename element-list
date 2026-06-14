@@ -35,7 +35,6 @@ blockly_robot.robot.logic.navigation
 blockly_robot.robot.logic.robot
 blockly_robot.robot.utils
 cli
-cli.checklinks
 cli.java2umltext
 cli.java2umltext.export
 cli.java2umltext.model
